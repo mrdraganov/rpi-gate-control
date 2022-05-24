@@ -14,12 +14,12 @@ file_handler.setFormatter(formatter)
 
 logger.addHandler(file_handler)
 
-isClose= 26
-isOpen = 27
+isClose= 10
+isOpen = 12
 
-lift = 19
-hik = 17
-ac = 21
+lift = 13
+hik = 14
+ac = 25
 
 frontLS = 22
 backLS = 23
@@ -146,4 +146,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
